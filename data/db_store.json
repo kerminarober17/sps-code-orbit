@@ -1,0 +1,41 @@
+{
+  "enrollments": {
+    "student-alex-id": [
+      "course-programming-foundations",
+      "course-python-foundations"
+    ]
+  },
+  "lesson_progress": {
+    "student-alex-id": {
+      "lesson-pf-1-1": {
+        "completed": true,
+        "status": "completed",
+        "completed_at": "2026-09-13T07:38:50.060Z"
+      }
+    }
+  },
+  "user_progress": {
+    "student-alex-id": {
+      "course-programming-foundations": {
+        "user_id": "student-alex-id",
+        "course_id": "course-programming-foundations",
+        "completed_lessons": [
+          "lesson-pf-1-1"
+        ],
+        "percentage": 4,
+        "last_accessed": "2026-09-13T07:38:50.061Z"
+      }
+    }
+  },
+  "exam_attempts": {
+    "student-alex-id": {}
+  },
+  "gamification": {
+    "student-alex-id": {
+      "total_xp": 450,
+      "current_streak": 5,
+      "longest_streak": 12,
+      "last_activity_date": "2026-09-13"
+    }
+  }
+}
